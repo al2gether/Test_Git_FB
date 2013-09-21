@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0488fb00ca77e19ee6c42040666ce9ec:1/1$ -->
+<TextureAtlas imagePath="serendipi_calline.png">
+    <SubTexture name="serendipi_calline_bg" x="3" y="3" width="640" height="960"/>
+    <SubTexture name="serendipi_calline_collapsible_arrow" x="815" y="1003" width="25" height="13"/>
+    <SubTexture name="serendipi_calline_dot1" x="1128" y="987" width="22" height="22"/>
+    <SubTexture name="serendipi_calline_dot2" x="1125" y="961" width="22" height="22"/>
+    <SubTexture name="serendipi_calline_dot3" x="1102" y="990" width="22" height="22"/>
+    <SubTexture name="serendipi_calline_dot4" x="1047" y="999" width="22" height="22"/>
+    <SubTexture name="serendipi_calline_event_bg" x="647" y="3" width="547" height="650" frameX="-1" frameY="-2" frameWidth="549" frameHeight="654"/>
+    <SubTexture name="serendipi_calline_event_bg_left" x="1878" y="3" width="31" height="650" frameX="0" frameY="-7" frameWidth="37" frameHeight="658"/>
+    <SubTexture name="serendipi_calline_event_bg_right" x="1198" y="3" width="32" height="650" frameX="-10" frameY="-7" frameWidth="42" frameHeight="658"/>
+    <SubTexture name="serendipi_calline_icon1" x="755" y="961" width="56" height="56"/>
+    <SubTexture name="serendipi_calline_icon2" x="695" y="961" width="56" height="56"/>
+    <SubTexture name="serendipi_calline_icon_alarm" x="1098" y="961" width="23" height="25"/>
+    <SubTexture name="serendipi_calline_icon_button_back" x="863" y="961" width="50" height="35"/>
+    <SubTexture name="serendipi_calline_icon_button_menu" x="917" y="961" width="49" height="35"/>
+    <SubTexture name="serendipi_calline_icon_duration" x="1073" y="993" width="25" height="25"/>
+    <SubTexture name="serendipi_calline_icon_end" x="892" y="1000" width="25" height="20"/>
+    <SubTexture name="serendipi_calline_icon_history" x="815" y="961" width="44" height="38"/>
+    <SubTexture name="serendipi_calline_icon_map" x="970" y="961" width="44" height="35"/>
+    <SubTexture name="serendipi_calline_icon_note" x="1066" y="961" width="28" height="28"/>
+    <SubTexture name="serendipi_calline_icon_pen" x="3" y="967" width="44" height="44"/>
+    <SubTexture name="serendipi_calline_icon_repeat" x="1018" y="999" width="25" height="22"/>
+    <SubTexture name="serendipi_calline_icon_share" x="1018" y="961" width="44" height="34"/>
+    <SubTexture name="serendipi_calline_icon_start" x="863" y="1000" width="25" height="20"/>
+    <SubTexture name="serendipi_calline_navigation_bar" x="1234" y="3" width="640" height="88"/>
+    <SubTexture name="serendipi_calline_sidebar_bottom" x="647" y="657" width="552" height="206"/>
+    <SubTexture name="serendipi_calline_sidebar_row" x="647" y="867" width="552" height="90"/>
+    <SubTexture name="serendipi_calline_sidebar_row_lines" x="3" y="1015" width="552" height="2"/>
+    <SubTexture name="serendipi_calline_top_bar" x="51" y="967" width="640" height="40"/>
+</TextureAtlas>

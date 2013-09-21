@@ -1,0 +1,28 @@
+{
+    "meeting": [
+        {
+            "title": "Party with friends",
+            "startDate": "Fri Sep 20 2013",
+            "endDate": "Fri Sep 20 2013",
+            "typeEvent": "party"
+        },
+        {
+            "title": "Happy birthday Ludi",
+            "startDate": "Wed Sep 18 2013",
+            "endDate": "Wed Sep 18 2013",
+            "typeEvent": "birthday"
+        },
+        {
+            "title": "Flight to Paris",
+            "startDate": "Mon Sep 30 2013",
+            "endDate": "Mon Sep 30 2013",
+            "typeEvent": "travel"
+        },
+        {
+            "title": "Sprint review",
+            "startDate": "Sun Sep 29 2013",
+            "endDate": "Sun Sep 29 2013",
+            "typeEvent": "work"
+        }
+    ]
+}
